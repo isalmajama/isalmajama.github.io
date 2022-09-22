@@ -1,1 +1,21 @@
+body {
+  background-color:#444444;
+  color: #dddddd;
+  font-family: arial, Helvetica, sans-serif;
+  margin: 10% 20%;
+  background-image: url("https://images.unsplash.com/photo-1559583985-c80d8ad9b29f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1587&q=80");
+ border-style: solid;
+ margin:30px;
+ padding:40px;
+}
 
+.header {
+  font-family:cursive;
+ text-align: center;
+ text-transform: uppercase;
+ border-top: 1px solid #dddddd;
+ border-bottom: 1px solid #dddddd;
+ background-color: rgba (0,0,0, 0.1) 
+}
+
+li{ list-style-type: circle;}
